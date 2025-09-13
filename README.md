@@ -108,3 +108,6 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
+
+<h3>Result:</h3>
+Thus the Simple Hill Climb Algorithm Implemented successfully.
